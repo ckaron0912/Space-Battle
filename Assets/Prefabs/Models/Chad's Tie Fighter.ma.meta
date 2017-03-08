@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 34c7443da49e7a047a3e5b5164ca9584
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cockpit
+    100004: curve1
+    100006: curve10
+    100008: curve11
+    100010: curve12
+    100012: curve13
+    100014: curve14
+    100016: curve16
+    100018: curve17
+    100020: curve2
+    100022: curve3
+    100024: curve4
+    100026: curve5
+    100028: curve6
+    100030: curve7
+    100032: curve8
+    100034: curve9
+    100036: Curves_Group
+    100038: Engine_group
+    100040: loftedSurface10
+    100042: nurbsCircle1
+    100044: nurbsCircle10
+    100046: nurbsCircle11
+    100048: nurbsCircle12
+    100050: nurbsCircle13
+    100052: nurbsCircle14
+    100054: nurbsCircle15
+    100056: nurbsCircle2
+    100058: nurbsCircle3
+    100060: nurbsCircle4
+    100062: nurbsCircle5
+    100064: nurbsCircle6
+    100066: nurbsCircle7
+    100068: nurbsCircle8
+    100070: nurbsCircle9
+    100072: nurbsToPoly236
+    100074: Tie_Fighter01
+    100076: Weapons_group
+    100078: Wing01
+    100080: Wing02
+    100082: Wing_group
+    100084: Wing_Stem_group
+    400000: //RootNode
+    400002: Cockpit
+    400004: curve1
+    400006: curve10
+    400008: curve11
+    400010: curve12
+    400012: curve13
+    400014: curve14
+    400016: curve16
+    400018: curve17
+    400020: curve2
+    400022: curve3
+    400024: curve4
+    400026: curve5
+    400028: curve6
+    400030: curve7
+    400032: curve8
+    400034: curve9
+    400036: Curves_Group
+    400038: Engine_group
+    400040: loftedSurface10
+    400042: nurbsCircle1
+    400044: nurbsCircle10
+    400046: nurbsCircle11
+    400048: nurbsCircle12
+    400050: nurbsCircle13
+    400052: nurbsCircle14
+    400054: nurbsCircle15
+    400056: nurbsCircle2
+    400058: nurbsCircle3
+    400060: nurbsCircle4
+    400062: nurbsCircle5
+    400064: nurbsCircle6
+    400066: nurbsCircle7
+    400068: nurbsCircle8
+    400070: nurbsCircle9
+    400072: nurbsToPoly236
+    400074: Tie_Fighter01
+    400076: Weapons_group
+    400078: Wing01
+    400080: Wing02
+    400082: Wing_group
+    400084: Wing_Stem_group
+    2300000: Wing01
+    3300000: Wing01
+    4300000: Wing01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
